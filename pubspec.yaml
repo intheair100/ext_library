@@ -25,7 +25,7 @@ dependencies:
   stack_trace: ^1.11.0
 
   # getx
-  get: ^4.6.5
+  get: 5.0.0-release-candidate-9.2.1
   get_storage: ^2.1.1
   # dio
   dio: ^5.4.0
